@@ -49,3 +49,5 @@ This project performs Exploratory Data Analysis (EDA) on a real-world dataset co
    ```bash
    git clone https://github.com/hamzakamelen/ai-ml-ds-salary-insights.git
    cd ai-ml-ds-salary-insights
+   pip install -r requirements.txt
+   ```
